@@ -75,6 +75,5 @@ Otros parámetros del algoritmo:
 - `num_frogs = 30`
 - `step_size = 2`
 
-## Licencia
-
-Este proyecto se distribuye con fines académicos para el ramo de Optimización de la carrera de Ingeniería Civil Informática (UNAB).
+## Instancias y Resultados
+Las instancias utilizadas se encuentran dentro de la carpeta INSTANCES del repositorio. Además, los resultados, tanto `.tsp`como `.txt` estan dentro del archivo comprimido `RESULTADOS.txt`.
