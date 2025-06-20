@@ -71,7 +71,7 @@ El programa:
 
 Otros parámetros del algoritmo:
 - `num_executions = 10`
-- `num_iterations = 500`
+- `num_iterations = 1000`
 - `num_frogs = 30`
 - `step_size = 2`
 
