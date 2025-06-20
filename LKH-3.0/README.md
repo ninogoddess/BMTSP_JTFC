@@ -27,9 +27,9 @@ BMTSP/
 
 ## Estructura de este repositorio
 
-- `INSTANCES/` — contiene los archivos `.tsp` con las instancias.
+- `RESULTADOS/` — contiene un comprimido con los archivos `.txt` con los resultados de las instancias.
 - `OUTPUT/` — aquí hay un comprimido con los `.tour` de cada ejecución.
-- `PARS` — archivos de parámetros para cada instancia.
+- `PARS/` — contiene un comprimido con los archivos de parámetros para cada instancia.
 
 ---
 
