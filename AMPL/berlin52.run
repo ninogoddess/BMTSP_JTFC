@@ -1,0 +1,12 @@
+reset;
+model bmtsp.mod;
+data berlin52.dat;
+
+option solver cplex;
+option cplex_options 'timelimit=300 mipgap=0.02';  # 60 segundos máx, 2% gap
+option solver_msg 1;
+
+solve;
+
+display TotalDistancia;
+# display otras variables si deseas (por ejemplo, rutas)
